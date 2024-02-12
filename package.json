@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-crud-api",
+  "version": "1.0.0",
+  "description": "This repository is the part of nodejs-assignments tasks (RSSchool)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tema-karelin/nodejs-CRUD-API.git"
+  },
+  "author": "Artem Karelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tema-karelin/nodejs-CRUD-API/issues"
+  },
+  "homepage": "https://github.com/tema-karelin/nodejs-CRUD-API#readme"
+}
